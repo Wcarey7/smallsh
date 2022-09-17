@@ -10,3 +10,10 @@ A shell written in C with a subset of features of well-known shells, such as bas
 &ndash; Supports input and output redirection  
 &ndash; Supports running commands in foreground and background processes  
 &ndash; Implements custom handlers for 2 signals, `SIGINT` and `SIGTSTP`  
+
+# Demo
+
+
+
+https://user-images.githubusercontent.com/13939125/190874310-fbb6b7b5-e14f-45fb-97d5-611f2eec9de9.mp4
+
